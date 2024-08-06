@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "API-Clean.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "API-Clean.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/API-Clean.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API-Clean.Application.dll": {}
+        }
+      },
+      "API-Clean.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/API-Clean.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API-Clean.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API-Clean.Application/1.0.0": {
+      "type": "project",
+      "path": "../API-Clean.Application/API-Clean.Application.csproj",
+      "msbuildProject": "../API-Clean.Application/API-Clean.Application.csproj"
+    },
+    "API-Clean.Domain/1.0.0": {
+      "type": "project",
+      "path": "../API-Clean.Domain/API-Clean.Domain.csproj",
+      "msbuildProject": "../API-Clean.Domain/API-Clean.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "API-Clean.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ali\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\API-Clean.Infrastructure.csproj",
+      "projectName": "API-Clean.Infrastructure",
+      "projectPath": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\API-Clean.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\API-Clean.Application.csproj": {
+              "projectPath": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\API-Clean.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
