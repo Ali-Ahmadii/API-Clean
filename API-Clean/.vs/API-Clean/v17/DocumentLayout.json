@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F597717D-3067-4301-AF11-C553C1FAC289}|API-Clean.Domain\\API-Clean.Domain.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F597717D-3067-4301-AF11-C553C1FAC289}|API-Clean.Domain\\API-Clean.Domain.csproj|solutionrelative:api-clean.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F597717D-3067-4301-AF11-C553C1FAC289}|API-Clean.Domain\\API-Clean.Domain.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.domain\\api-clean.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F597717D-3067-4301-AF11-C553C1FAC289}|API-Clean.Domain\\API-Clean.Domain.csproj|solutionrelative:api-clean.domain\\api-clean.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4A3D13D-6014-4229-8547-E9DBD38376FD}|API-Clean.Infrastructure\\API-Clean.Infrastructure.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4A3D13D-6014-4229-8547-E9DBD38376FD}|API-Clean.Infrastructure\\API-Clean.Infrastructure.csproj|solutionrelative:api-clean.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.application\\api-clean.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|solutionrelative:api-clean.application\\api-clean.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F597717D-3067-4301-AF11-C553C1FAC289}|API-Clean.Domain\\API-Clean.Domain.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F597717D-3067-4301-AF11-C553C1FAC289}|API-Clean.Domain\\API-Clean.Domain.csproj|solutionrelative:api-clean.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,32 +39,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "API-Clean.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "API-Clean.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T22:25:59.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API-Clean.Domain",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\API-Clean.Domain.csproj",
+              "RelativeDocumentMoniker": "API-Clean.Domain\\API-Clean.Domain.csproj",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\API-Clean.Domain.csproj",
+              "RelativeToolTip": "API-Clean.Domain\\API-Clean.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T22:25:32.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "API-Clean.Infrastructure\\Class1.cs",
               "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\Class1.cs",
               "RelativeToolTip": "API-Clean.Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T21:58:58.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "API-Clean.Application",
+              "DocumentIndex": 4,
+              "Title": "API-Clean.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\API-Clean.Application.csproj",
               "RelativeDocumentMoniker": "API-Clean.Application\\API-Clean.Application.csproj",
               "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\API-Clean.Application.csproj",
               "RelativeToolTip": "API-Clean.Application\\API-Clean.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-06T21:57:31.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T21:57:31.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Class1.cs",
               "RelativeDocumentMoniker": "API-Clean.Application\\Class1.cs",
@@ -68,25 +97,11 @@
               "RelativeToolTip": "API-Clean.Application\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T21:42:43.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T21:42:43.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "API-Clean.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\Class1.cs",
-              "RelativeToolTip": "API-Clean.Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T21:36:44.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\Program.cs",
               "RelativeDocumentMoniker": "API-Clean\\Program.cs",
@@ -94,8 +109,7 @@
               "RelativeToolTip": "API-Clean\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T21:01:31.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T21:01:31.344Z"
             }
           ]
         }
