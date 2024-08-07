@@ -23,5 +23,6 @@ namespace API_Clean.Domain.Entities
         public DateTime ProduceDate { get; set; } = DateTime.Now;
         [Required]
         public string Name { get; set; }
+        public string CreatorUsername { get; set; }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\bin\Debug\net8.0\API-Clean.Domain.deps.json
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\bin\Debug\net8.0\API-Clean.Domain.dll
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\bin\Debug\net8.0\API-Clean.Domain.pdb
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\obj\Debug\net8.0\API-Clean.Domain.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\obj\Debug\net8.0\API-Clean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\obj\Debug\net8.0\API-Clean.Domain.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\obj\Debug\net8.0\API-Clean.Domain.AssemblyInfo.cs
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\obj\Debug\net8.0\API-Clean.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\obj\Debug\net8.0\API-Clean.Domain.sourcelink.json
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\obj\Debug\net8.0\API-Clean.Domain.dll
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\obj\Debug\net8.0\refint\API-Clean.Domain.dll
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\obj\Debug\net8.0\API-Clean.Domain.pdb
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Domain\obj\Debug\net8.0\ref\API-Clean.Domain.dll

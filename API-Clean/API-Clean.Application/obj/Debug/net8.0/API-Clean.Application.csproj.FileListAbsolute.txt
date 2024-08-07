@@ -1,0 +1,16 @@
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\bin\Debug\net8.0\API-Clean.Application.deps.json
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\bin\Debug\net8.0\API-Clean.Application.dll
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\bin\Debug\net8.0\API-Clean.Application.pdb
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\bin\Debug\net8.0\API-Clean.Domain.dll
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\bin\Debug\net8.0\API-Clean.Domain.pdb
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\obj\Debug\net8.0\API-Clean.Application.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\obj\Debug\net8.0\API-Clean.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\obj\Debug\net8.0\API-Clean.Application.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\obj\Debug\net8.0\API-Clean.Application.AssemblyInfo.cs
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\obj\Debug\net8.0\API-Clean.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\obj\Debug\net8.0\API-Clean.Application.sourcelink.json
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\obj\Debug\net8.0\API-Clea.E956E020.Up2Date
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\obj\Debug\net8.0\API-Clean.Application.dll
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\obj\Debug\net8.0\refint\API-Clean.Application.dll
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\obj\Debug\net8.0\API-Clean.Application.pdb
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean.Application\obj\Debug\net8.0\ref\API-Clean.Application.dll
