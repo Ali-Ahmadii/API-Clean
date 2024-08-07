@@ -1,6 +1,7 @@
 ﻿using API_Clean.Application.Abstraction;
 using API_Clean.Domain.Entities;
 using API_Clean.Infrastructure.Context;
+using Azure.Core;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -46,14 +47,25 @@ namespace API_Clean.Infrastructure.Repository
 
         public async Task<Product> GetProductByUsername(string user)
         {
-            return await _context.Products.FirstOrDefaultAsync(p => p.CreatorUsername == user);
+            API_Clean.Domain.Entities.Product pp = await _context.Products.FirstOrDefaultAsync(x => x.CreatorUsername == user);
+            if(pp != null)
+            {
+                return  pp;
+            }
+            else
+            {
+                return null;
+            }
         }
 
-        public async Task<Product> UpdateProduct(int ProductId, string Name, bool IsAvailable)
+        public async Task<Product> GetProductById(int Id)
+        {
+            return await _context.Products.FirstOrDefaultAsync(p => p.Id == Id);
+        }
+
+        public async Task<Product> UpdateProduct(int ProductId, bool IsAvailable)
         {
             var product = await _context.Products.FirstOrDefaultAsync(p => p.Id == ProductId);
-
-            product.Name = Name;
             product.IsAvailable = IsAvailable;
 
             await _context.SaveChangesAsync();
