@@ -44,9 +44,9 @@ namespace API_Clean.Infrastructure.Repository
             return await _context.Products.ToListAsync();
         }
 
-        public async Task<Product> GetProductById(int ProductId)
+        public async Task<Product> GetProductByUsername(string user)
         {
-            return await _context.Products.FirstOrDefaultAsync(p => p.Id == ProductId);
+            return await _context.Products.FirstOrDefaultAsync(p => p.CreatorUsername == user);
         }
 
         public async Task<Product> UpdateProduct(int ProductId, string Name, bool IsAvailable)

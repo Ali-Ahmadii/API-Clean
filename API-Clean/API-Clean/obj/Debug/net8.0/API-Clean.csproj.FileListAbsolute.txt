@@ -144,3 +144,7 @@ C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\A
 C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\API-Clean.Application.pdb
 C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\API-Clean.Infrastructure.pdb
 C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\API-Clean.Domain.pdb
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

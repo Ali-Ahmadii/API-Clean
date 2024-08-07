@@ -4,18 +4,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using API_Clean.Domain.Entities;
 
 namespace API_Clean.Application.Abstraction
 {
     public interface IProductRepository
     {
-        Task<ICollection<Product>> GetAll();
+        Task<ICollection<API_Clean.Domain.Entities.Product>> GetAll();
 
-        Task<Product> GetProductById(int ProductId);
+        Task<API_Clean.Domain.Entities.Product> GetProductByUsername(string user);
 
-        Task<Product> AddProduct(Product toCreate);
+        Task<API_Clean.Domain.Entities.Product> AddProduct(API_Clean.Domain.Entities.Product toCreate);
 
-        Task<Product> UpdateProduct(int ProductId, string Name, Boolean IsAvailable);
+        Task<API_Clean.Domain.Entities.Product> UpdateProduct(int ProductId, string Name, Boolean IsAvailable);
 
         Task DeleteProduct(int ProductId);
     }
