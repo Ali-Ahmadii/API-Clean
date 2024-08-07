@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CJqzn2ZVKvGlu7EF3/CDZVMwOl3DO1SR8wA39eJrVsgE06iCYmi+EyzK4UUX68k3OI46J1DFrEPZAXvOIrzvbg==",
+  "dgSpecHash": "3zu8JyP2fxBIiJGrmCTbWzxDHfMZ9tuaGpCABbgUaMC8kPosg2jEFVUNSribvZqVz/QjklojkN07BmCjDrrhIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\API-Clean.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

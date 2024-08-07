@@ -148,3 +148,4 @@ C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\A
 C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ali\Desktop\nadin-task\API-Clean\API-Clean\API-Clean\bin\Debug\net8.0\BCrypt.Net-Next.dll

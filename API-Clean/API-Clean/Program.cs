@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 using API_Clean.Application;
 using API_Clean.Infrastructure;
+using System.Security.Claims;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,7 +28,10 @@ builder.Services.AddDbContext<ProductDbContext>(config =>
     config.UseSqlServer("ConnectionString");
 });
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(GetAllProductsHandler).Assembly));
-
+builder.Services.AddAuthorization(option =>
+{
+    option.AddPolicy("Valid", policy => policy.RequireClaim("MyRole", "User"));
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

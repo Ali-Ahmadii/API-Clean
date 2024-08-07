@@ -18,5 +18,6 @@ namespace API_Clean.Infrastructure.Context
             optionsBuilder.UseSqlServer("Data Source=DESKTOP-4RKBK3P;Initial Catalog=API-Clean;Integrated Security=True;Trust Server Certificate=True;");
         }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Users> Users { get; set; }
     }
 }
