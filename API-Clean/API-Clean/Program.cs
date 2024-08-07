@@ -28,6 +28,10 @@ builder.Services.AddDbContext<ProductDbContext>(config =>
     config.UseSqlServer("ConnectionString");
 });
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(GetAllProductsHandler).Assembly));
+builder.Services.AddAuthentication("MyCookieAuth").AddCookie("MyCookieAuth", options =>
+{
+    options.Cookie.Name = "MyCookieAuth";
+});
 builder.Services.AddAuthorization(option =>
 {
     option.AddPolicy("Valid", policy => policy.RequireClaim("MyRole", "User"));
@@ -42,7 +46,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3zu8JyP2fxBIiJGrmCTbWzxDHfMZ9tuaGpCABbgUaMC8kPosg2jEFVUNSribvZqVz/QjklojkN07BmCjDrrhIA==",
+  "dgSpecHash": "2pOzg2aSfsqljw9NxpdfAh7+yCdmz/aSWjoo9ELxHCNtiLb4Vnbi6W3U//6DSjaFrmnfEKMES/lrSOAPwZez9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\API-Clean.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,8 @@
     "C:\\Users\\Ali\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\Ali\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

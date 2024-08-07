@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4A3D13D-6014-4229-8547-E9DBD38376FD}|API-Clean.Infrastructure\\API-Clean.Infrastructure.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.infrastructure\\context\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A3D13D-6014-4229-8547-E9DBD38376FD}|API-Clean.Infrastructure\\API-Clean.Infrastructure.csproj|solutionrelative:api-clean.infrastructure\\context\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|solutionrelative:api-clean\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|solutionrelative:api-clean\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|solutionrelative:api-clean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F597717D-3067-4301-AF11-C553C1FAC289}|API-Clean.Domain\\API-Clean.Domain.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F597717D-3067-4301-AF11-C553C1FAC289}|API-Clean.Domain\\API-Clean.Domain.csproj|solutionrelative:api-clean.domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|solutionrelative:api-clean\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F597717D-3067-4301-AF11-C553C1FAC289}|API-Clean.Domain\\API-Clean.Domain.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F597717D-3067-4301-AF11-C553C1FAC289}|API-Clean.Domain\\API-Clean.Domain.csproj|solutionrelative:api-clean.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4A3D13D-6014-4229-8547-E9DBD38376FD}|API-Clean.Infrastructure\\API-Clean.Infrastructure.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.infrastructure\\context\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4A3D13D-6014-4229-8547-E9DBD38376FD}|API-Clean.Infrastructure\\API-Clean.Infrastructure.csproj|solutionrelative:api-clean.infrastructure\\context\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|solutionrelative:api-clean\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\Migrations\\20240807151323_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API-Clean.Infrastructure\\Migrations\\20240807151323_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.application\\product\\commands\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|solutionrelative:api-clean.application\\product\\commands\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.application\\product\\commands\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|solutionrelative:api-clean.application\\product\\commands\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.application\\product\\commandhandlers\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|solutionrelative:api-clean.application\\product\\commandhandlers\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.application\\product\\commandhandlers\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|solutionrelative:api-clean.application\\product\\commandhandlers\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4A3D13D-6014-4229-8547-E9DBD38376FD}|API-Clean.Infrastructure\\API-Clean.Infrastructure.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4A3D13D-6014-4229-8547-E9DBD38376FD}|API-Clean.Infrastructure\\API-Clean.Infrastructure.csproj|solutionrelative:api-clean.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.application\\product\\commands\\deleteproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|solutionrelative:api-clean.application\\product\\commands\\deleteproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.application\\abstraction\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|solutionrelative:api-clean.application\\abstraction\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean.application\\product\\commandhandlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B5168F5-7279-4F24-8421-7D2410912DFA}|API-Clean.Application\\API-Clean.Application.csproj|solutionrelative:api-clean.application\\product\\commandhandlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|c:\\users\\ali\\desktop\\nadin-task\\api-clean\\api-clean\\api-clean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245E5ACE-34D6-4146-92C3-3611F0781C4F}|API-Clean\\API-Clean.csproj|solutionrelative:api-clean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,17 +54,134 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\Context\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "API-Clean.Infrastructure\\Context\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\Context\\ProductDbContext.cs",
+              "RelativeToolTip": "API-Clean.Infrastructure\\Context\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:27:54.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\CommandHandlers\\UpdateProductHandler.cs",
+              "RelativeDocumentMoniker": "API-Clean.Application\\Product\\CommandHandlers\\UpdateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\CommandHandlers\\UpdateProductHandler.cs",
+              "RelativeToolTip": "API-Clean.Application\\Product\\CommandHandlers\\UpdateProductHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:20:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\Commands\\UpdateProduct.cs",
+              "RelativeDocumentMoniker": "API-Clean.Application\\Product\\Commands\\UpdateProduct.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\Commands\\UpdateProduct.cs",
+              "RelativeToolTip": "API-Clean.Application\\Product\\Commands\\UpdateProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:19:52.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "API-Clean.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "API-Clean.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:17:25.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\Commands\\DeleteProduct.cs",
+              "RelativeDocumentMoniker": "API-Clean.Application\\Product\\Commands\\DeleteProduct.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\Commands\\DeleteProduct.cs",
+              "RelativeToolTip": "API-Clean.Application\\Product\\Commands\\DeleteProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T20:17:09.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\CommandHandlers\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "API-Clean.Application\\Product\\CommandHandlers\\DeleteProductHandler.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\CommandHandlers\\DeleteProductHandler.cs",
+              "RelativeToolTip": "API-Clean.Application\\Product\\CommandHandlers\\DeleteProductHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:47:15.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\CommandHandlers\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "API-Clean.Application\\Product\\CommandHandlers\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\CommandHandlers\\CreateProductHandler.cs",
+              "RelativeToolTip": "API-Clean.Application\\Product\\CommandHandlers\\CreateProductHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:45:11.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API-Clean\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API-Clean\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:42:36.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\Commands\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "API-Clean.Application\\Product\\Commands\\CreateProduct.cs",
+              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\Commands\\CreateProduct.cs",
+              "RelativeToolTip": "API-Clean.Application\\Product\\Commands\\CreateProduct.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T19:44:52.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\Program.cs",
               "RelativeDocumentMoniker": "API-Clean\\Program.cs",
               "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\Program.cs",
               "RelativeToolTip": "API-Clean\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAADAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T15:52:09.931Z",
               "EditorCaption": ""
@@ -72,129 +189,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\appsettings.json",
-              "RelativeDocumentMoniker": "API-Clean\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\appsettings.json",
-              "RelativeToolTip": "API-Clean\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-07T15:40:22.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "API-Clean.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "API-Clean.Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T15:25:11.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20240807151323_third.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\Migrations\\20240807151323_third.cs",
-              "RelativeDocumentMoniker": "API-Clean.Infrastructure\\Migrations\\20240807151323_third.cs",
-              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\Migrations\\20240807151323_third.cs",
-              "RelativeToolTip": "API-Clean.Infrastructure\\Migrations\\20240807151323_third.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T15:13:23.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\Dto\\UserDto.cs",
-              "RelativeDocumentMoniker": "API-Clean\\Dto\\UserDto.cs",
-              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\Dto\\UserDto.cs",
-              "RelativeToolTip": "API-Clean\\Dto\\UserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T15:05:57.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "API-Clean\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean\\Controllers\\AuthController.cs",
               "RelativeToolTip": "API-Clean\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwD8AAAAJAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T15:03:35.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\Context\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "API-Clean.Infrastructure\\Context\\ProductDbContext.cs",
-              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\Context\\ProductDbContext.cs",
-              "RelativeToolTip": "API-Clean.Infrastructure\\Context\\ProductDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T14:59:05.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\Entities\\Users.cs",
-              "RelativeDocumentMoniker": "API-Clean.Domain\\Entities\\Users.cs",
-              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Domain\\Entities\\Users.cs",
-              "RelativeToolTip": "API-Clean.Domain\\Entities\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T14:57:43.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DeleteProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\CommandHandlers\\DeleteProductHandler.cs",
-              "RelativeDocumentMoniker": "API-Clean.Application\\Product\\CommandHandlers\\DeleteProductHandler.cs",
-              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Product\\CommandHandlers\\DeleteProductHandler.cs",
-              "RelativeToolTip": "API-Clean.Application\\Product\\CommandHandlers\\DeleteProductHandler.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T14:43:11.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "API-Clean.Infrastructure\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Infrastructure\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "API-Clean.Infrastructure\\Repository\\ProductRepository.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAcwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:24:59.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Abstraction\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "API-Clean.Application\\Abstraction\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Ali\\Desktop\\nadin-task\\API-Clean\\API-Clean\\API-Clean.Application\\Abstraction\\IProductRepository.cs",
-              "RelativeToolTip": "API-Clean.Application\\Abstraction\\IProductRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T13:24:54.897Z",
               "EditorCaption": ""
             }
           ]

@@ -1,6 +1,7 @@
 ﻿using API_Clean.Application.Product.Command;
 using API_Clean.Application.Product.Queries;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
@@ -35,23 +36,50 @@ namespace API_Clean.Controllers
             }
             return Ok(pro);
         }
+
+
+        [Authorize(Policy = "Valid")]
         [HttpPost]
         public async Task<IActionResult> CreateProduct([FromBody] CreateProduct request)
         {
+            var user = HttpContext.User;
+            var nameClaim = user.Claims.FirstOrDefault(c => c.Type == "Username")?.Value;
+
+
+            request.CreatorUsername = nameClaim;
             var bookId = await mediator.Send(request);
             return Ok(bookId);
         }
+
+        [Authorize(Policy = "Valid")]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateBook(int id, [FromBody] UpdateProduct request)
         {
-            request.Id = id;
-            await mediator.Send(request);
-            return Ok();
+            var user = HttpContext.User;
+            var nameClaim = user.Claims.FirstOrDefault(c => c.Type == "Username")?.Value;
+            if (nameClaim != null)
+            {
+                request.CreatorUsername = nameClaim;
+                request.Id = id;
+                await mediator.Send(request);
+                return Ok();
+            }
+            else
+            {
+                return BadRequest();
+            }
         }
+
+        [Authorize(Policy = "Valid")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteBook(int id)
         {
+            var user = HttpContext.User;
+            var nameClaim = user.Claims.FirstOrDefault(c => c.Type == "Username")?.Value;
+
+
             var request = new DeleteProduct { Id = id };
+            request.CreatorUsername = nameClaim;
             await mediator.Send(request);
             return Ok();
         }

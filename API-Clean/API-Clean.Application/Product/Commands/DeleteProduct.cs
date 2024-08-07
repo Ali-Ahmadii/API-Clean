@@ -11,5 +11,6 @@ namespace API_Clean.Application.Product.Command
     public class DeleteProduct : IRequest<API_Clean.Domain.Entities.Product>
     {
         public int Id { get; set; }
+        public string CreatorUsername { get; set; }
     }
 }

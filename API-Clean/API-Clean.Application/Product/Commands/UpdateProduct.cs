@@ -12,5 +12,6 @@ namespace API_Clean.Application.Product.Command
     {
         public int Id { get; set; }
         public Boolean IsAvailable { get; set; }
+        public string CreatorUsername { get; set; }
     }
 }

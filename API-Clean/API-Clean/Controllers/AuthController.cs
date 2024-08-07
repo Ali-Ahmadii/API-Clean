@@ -1,6 +1,8 @@
 ﻿using API_Clean.Domain.Entities;
 using API_Clean.Dto;
 using API_Clean.Infrastructure.Context;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -43,6 +45,8 @@ namespace API_Clean.Controllers
                 return BadRequest();
             }
         }
+
+
         [HttpPost("login")]
         public async Task<ActionResult<Users>> Login(UserDto request)
         {
@@ -62,6 +66,15 @@ namespace API_Clean.Controllers
                 return BadRequest();
             }
         }
+
+
+        [Authorize(Policy = "Valid")]
+        [HttpPost("logout")]
+        public async Task<ActionResult<Users>> Logout()
+        {
+             await HttpContext.SignOutAsync();
+            return Ok();
+        }
         private bool check(string user)
         {
             if (_productDbContext.Users.FirstOrDefault(p=>p.Username == user) != null)
@@ -75,6 +88,7 @@ namespace API_Clean.Controllers
             List<Claim> claims = new List<Claim> {
                 new Claim(ClaimTypes.Name, user.Username),
                 new Claim("MyRole", "User"),
+                new Claim("Username",user.Username),
             };
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_confing.GetSection("AppSettings:Token").Value));
 
@@ -87,6 +101,10 @@ namespace API_Clean.Controllers
                 );
 
             var jwt = new JwtSecurityTokenHandler().WriteToken(token);
+
+            var identity = new ClaimsIdentity(claims, "MyCookieAuth");
+            ClaimsPrincipal claimPrincipal = new ClaimsPrincipal(identity);
+            HttpContext.SignInAsync("MyCookieAuth", claimPrincipal);
 
             return jwt;
         }

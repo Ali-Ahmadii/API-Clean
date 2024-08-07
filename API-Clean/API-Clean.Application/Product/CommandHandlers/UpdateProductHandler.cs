@@ -18,7 +18,13 @@ namespace API_Clean.Application.Product.CommandHandlers
         }
         public async Task<Domain.Entities.Product> Handle(UpdateProduct request, CancellationToken cancellationToken)
         {
-            return await _productRepository.UpdateProduct(request.Id, request.IsAvailable);
+
+            API_Clean.Domain.Entities.Product product = await _productRepository.GetProductById(request.Id);
+            if (product is null)
+                return null;
+            if (request.CreatorUsername == product.CreatorUsername)
+                return await _productRepository.UpdateProduct(request.Id, request.IsAvailable);
+            return null;
         }
     }
 }
